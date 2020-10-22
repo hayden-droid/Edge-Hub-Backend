@@ -10,5 +10,5 @@ Things to note:
 People who helped me during the creation of this. 
 ```
     - DaDude#3044
-                addcommand function and misc whitelist things
+                addcommand function and misc whitelist things.
 ```
